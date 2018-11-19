@@ -1,7 +1,5 @@
 # Node.js Workshop 
 
-Montira Khuncharoen
-
-5835512009
-
-CoE
+NATNICHA BOONSIRI
+ID: 5835512060  
+//*Computer Engineering*//
